@@ -1,6 +1,6 @@
 ### Hi! I want to make a career out of my hobby.
 
-UPDATE 12/08/2020
+UPDATE 1/25/2021
 - I'm currently trying to improve my proficiency in C# (taking a small break though).
 - Ideas also brewing related to RetroArch, though I'm not certain yet.
 - mandelbrot-gen: Tinkering... Zooms work, haven't pushed changes yet.
