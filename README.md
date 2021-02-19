@@ -1,6 +1,8 @@
 ### Hi! I want to make a career out of my hobby.
 
-UPDATE 1/26/2021
+UPDATE 2/19/2021
+
+**Focusing on school for now. Status is where I left off**
 
 Status:
 - I'm currently trying to improve my proficiency in C# (taking a small break though).
