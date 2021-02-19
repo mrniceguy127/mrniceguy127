@@ -2,7 +2,7 @@
 
 UPDATE 2/19/2021
 
-**Focusing on school for now. Status is where I left off**
+**Focusing on school for now. Status is where I left off.**
 
 Status:
 - I'm currently trying to improve my proficiency in C# (taking a small break though).
