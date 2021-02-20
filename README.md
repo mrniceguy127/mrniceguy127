@@ -7,7 +7,7 @@ UPDATE 2/19/2021
 Status:
 - Ideas also brewing related to RetroArch, though I'm not certain yet.
 - mandelbrot-gen: Tinkering... Zooms work.
-- I generally like to get started on things before saying them, but I'm probably going to try and implement an AES encryption algorithm in C# for learning purposes. Not real world use!!!
+- I generally like to get started on things before talking about them, but I'm probably going to try and implement an AES encryption algorithm in C# for learning purposes. Not real world use!!!
 - osu-wine-install-script: Will soon add script for installing ThePoon's wine patch / other improvements.
 - Too many ideas in the works too! Like Castlevania III related stuff.
 
