@@ -12,5 +12,5 @@ Status:
 - Too many ideas in the works too! Like Castlevania III related stuff.
 
 How I pick licenses:
-- GPL v3: As much of my side projects and other open source work as possible. GPL is extremely valuable for learning and cooperation and I generally don't want derivative work to be made proprietary. 
+- GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation and I generally don't want derivative work to be made proprietary. 
 - MIT: When things aren't black or white.
