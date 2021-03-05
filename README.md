@@ -1,6 +1,6 @@
 ### Hi! I want to make a career out of my hobby.
 
-UPDATE 2/23/2021
+UPDATE 3/5/2021
 
 **Focusing on school for now. Status is where I left off.**
 
