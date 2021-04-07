@@ -14,4 +14,4 @@ Status:
 
 How I pick licenses:
 - GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation (including mine) and I generally don't want derivative work to be made proprietary. 
-- MIT: When things aren't black or white.
+- MIT/others: When things aren't black or white.
