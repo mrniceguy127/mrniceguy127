@@ -2,7 +2,9 @@
 
 UPDATE 3/5/2021
 
-**Focusing on school/internship for now. Status is where I left off.**
+~~**Focusing on school/internship for now. Status is where I left off.**~~
+
+6/18/2021: Slightly more active now. I won't be doing to much with my more ambitious projects though.
 
 Status:
 - Ideas also brewing related to RetroArch, though I'm not certain yet.
