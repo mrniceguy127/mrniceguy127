@@ -10,6 +10,10 @@ Status:
 - Possible Future Side Projects
   - AES Implementation
 
+Stuff I'm currently teaching myself:
+- Go
+- Anything related to my current projetcs
+
 How I pick licenses:
 - GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
 - MIT/others: When things aren't black or white.
