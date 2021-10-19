@@ -8,7 +8,7 @@ Status:
 - I generally like to get started on things before talking about them, but I'm probably going to try and implement an AES encryption algorithm in C# for learning purposes. Not real world use!!!
 - ~~osu-wine-install-script: Will soon add script for installing ThePoon's wine patch / other improvements.~~ [Done](https://github.com/mrniceguy127/osu-wine-install-script)!
 - Castlevania III Save Password generator. [In Progress](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp).
-- [NES Emulator] (https://github.com/mrniceguy127/nes-emu)
+- [NES Emulator](https://github.com/mrniceguy127/nes-emu)
 - Too many other ideas!
 
 How I pick licenses:
