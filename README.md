@@ -1,4 +1,4 @@
-### Hi! I want to make a career out of my hobby.
+### Logs
 
 UPDATE 10/19/2021: I finally return.
 
