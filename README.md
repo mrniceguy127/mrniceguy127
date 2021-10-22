@@ -12,7 +12,7 @@ Project Status:
 
 Stuff I'm currently teaching myself:
 - Go
-- Anything related to my current projetcs
+- Anything related to my current projects
 
 Motivation:
 - Programming is fun ¯\\\_(ツ)\_/¯
