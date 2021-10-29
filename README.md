@@ -6,7 +6,7 @@ Project Status:
 - mandelbrot-gen: Tinkering... Zooms work.
 - ~~osu-wine-install-script: Will soon add script for installing ThePoon's wine patch / other improvements.~~ [Done](https://github.com/mrniceguy127/osu-wine-install-script)!
 - Castlevania III Save Password generator. [In Progress](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp).
-- [NES Emulator](https://github.com/mrniceguy127/nes-emu)
+- NES Emulator [In Progress](https://github.com/mrniceguy127/nes-emu)
 - Possible Future Side Projects
   - AES Implementation
 
