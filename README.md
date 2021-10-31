@@ -9,7 +9,7 @@ Project Status:
   - AES Implementation
 
 Stuff I'm currently teaching myself:
-- Go
+- [Go](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
 - Anything related to my current projects
 
 Motivation:
