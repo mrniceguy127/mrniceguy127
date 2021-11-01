@@ -21,5 +21,5 @@ How I pick licenses:
 - MIT/others: When things aren't black or white.
 
 Updates:
-- 03/05/2021: Taking a break from projects so I can focus on school, co-op, and other life matters.
-- 10/18/2021: I'm finally back and able to continue these projects again.
+- [03/05/2021] Taking a break from projects so I can focus on school, co-op, and other life matters.
+- [10/18/2021] I'm finally back and able to continue these projects again.
