@@ -14,7 +14,7 @@ Technology I'm currently teaching myself:
 
 Motivation:
 - Programming is fun ¯\\\_(ツ)\_/¯
-- Career Path
+- Career path
 
 How I pick licenses:
 - GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
