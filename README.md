@@ -8,10 +8,14 @@ Project Status:
 - Possible Future Side Projects
   - AES Implementation *(For fun. Not intended to be used in the real world.)*
 
-Stuff I'm currently teaching myself:
+Technology I'm currently teaching myself:
 - [Go](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
 - [Ruby](https://www.amazon.com/Ruby-Programming-Language-Everything-Need-ebook/dp/B0026OR3JO/ref=sr_1_4?crid=237J648G56NIM&dchild=1&keywords=ruby+programming&qid=1635881146&s=digital-text&sprefix=ruby+pro%2Cdigital-text%2C146&sr=1-4) (This will come after Go)
 - Anything related to my current projects
+
+Technology I'm interested in learning in the future:
+- Haskell
+- Anything else that may come to mind.
 
 Motivation:
 - Programming is fun ¯\\\_(ツ)\_/¯
