@@ -19,7 +19,7 @@ Motivation:
 
 How I pick licenses:
 - GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
-- MIT/others: When things aren't black or white.
+- MIT/others: When things aren't black or white. Especially when working with other people where goals, motivation, and opinions may differ.
 
 Updates:
 - [03/05/2021] Taking a break from my side projects so I can focus on school, co-op, and other life matters.
