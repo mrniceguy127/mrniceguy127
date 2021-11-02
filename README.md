@@ -6,7 +6,7 @@ Project Status:
 - Castlevania III Save Password generator ([In Progress](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp))
 - NES Emulator ([In Progress](https://github.com/mrniceguy127/nes-emu))
 - Possible Future Side Projects
-  - AES Implementation
+  - AES Implementation (For fun. Not intended to be used in the real world.)
 
 Stuff I'm currently teaching myself:
 - [Go](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
