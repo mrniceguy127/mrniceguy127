@@ -10,7 +10,7 @@ Project Status:
 
 Stuff I'm currently teaching myself:
 - [Go](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
-- Ruby (This will come after Go)
+- [Ruby]() (This will come after Go)
 - Anything related to my current projects
 
 Motivation:
