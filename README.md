@@ -20,6 +20,4 @@ How I pick licenses:
 - MIT/others/multi-license: When things aren't black or white. Especially when working with other people where goals, motivation, and opinions may differ.
 
 Updates:
-- [03/05/2021] Taking a break from my side projects so I can focus on school, co-op, and other life matters.
-- [10/18/2021] I'm finally back and able to continue my side projects again.
 - [11/02/2021] NES emulator is my current focus. I recently finished writing up a [CSV file representing the 6502 instruction set matrix](https://gist.github.com/mrniceguy127/356a06ac20bf72106305e43b2897bc62). Now working on a script to generate a C++ array from the CSV file using AWK, Python, and a shell script.
