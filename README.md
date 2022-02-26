@@ -5,7 +5,7 @@ Project Status:
 - Castlevania III Save Password generator ([In Progress](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp))
 - mandelbrot-gen: Tinkering... Zooms work.
 - Possible Future Side Projects
-  - AES Implementation *(For fun. Not intended to be used in the real world.)*
+  - AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
 Books I'm Reading / Will Read:
 - [Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
