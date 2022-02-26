@@ -21,3 +21,5 @@ How I pick licenses:
 
 Updates:
 - [11/02/2021] NES emulator is my current focus. I recently finished writing up a [CSV file representing the 6502 instruction set matrix](https://gist.github.com/mrniceguy127/356a06ac20bf72106305e43b2897bc62). Now working on a script to generate a C++ array from the CSV file using AWK, Python, and a shell script.
+- [01/05/2022] Focus is back on school and co-op interviews for now 😅
+- [02/26/2022] Finishing the school term and will hopefully have more time after. I'm dying to finish my 6502 emulation!!OKHJ:LKJKHK:kljh
