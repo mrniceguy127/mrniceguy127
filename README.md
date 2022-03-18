@@ -18,8 +18,3 @@ Motivation:
 How I pick licenses:
 - GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
 - MIT/others/multi-license: When things aren't black or white. Especially when working with other people where goals, motivation, and opinions may differ.
-
-Updates:
-- [11/02/2021] NES emulator is my current focus. I recently finished writing up a [CSV file representing the 6502 instruction set matrix](https://gist.github.com/mrniceguy127/356a06ac20bf72106305e43b2897bc62). Now working on a script to generate a C++ array from the CSV file using AWK, Python, and a shell script.
-- [01/05/2022] Focus is back on school and co-op interviews for now. 6502 will have to wait for now. :( 
-- [02/26/2022] Finishing the school term and will hopefully have more time after. I'm absolutely dying to finish my 6502 emulation!!
