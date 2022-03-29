@@ -15,6 +15,7 @@
 - \*\* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
 *\* Feasiblility already researched. Is feasible.*
+
 *\*\* Feasible, but possibly not challenging enough*
 
 ### Books I'm Reading / Will Read
