@@ -7,7 +7,7 @@
   - Frame generator on seperate branch
   - Needs non-naive algorithm
 
-### On hold
+### On Hold
 - [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
   - TDD Practice. Less-familiar language is intentional.
 
