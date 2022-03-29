@@ -12,11 +12,10 @@
   - TDD Practice. Less-familiar language is intentional.
 
 #### Future Projects
-- \*\* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
-
 *\* Feasiblility already researched. Is feasible.*
 
 *\*\* Feasible, but possibly not challenging enough*
+- \*\* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
 ### Books I'm Reading / Will Read
 - [Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
