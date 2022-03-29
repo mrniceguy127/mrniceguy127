@@ -14,7 +14,7 @@
 ### Future Projects
 *\* Feasiblility already researched. Is feasible.*
 
-*\*\* Feasible, but possibly not challenging enough*
+*\*\* Feasible, but possibly not challenging enough without extension*
 - \*\* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
 ## Books I'm Reading / Will Read
