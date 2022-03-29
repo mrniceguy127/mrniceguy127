@@ -1,11 +1,24 @@
 ## Logs
 
 ### Project Status
-- NES Emulator ([In Progress](https://github.com/mrniceguy127/nes-emu))
-- Castlevania III Save Password generator ([In Progress](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp))
-- mandelbrot-gen: Tinkering... Zooms work. ([Minimum Functionality, possible future additions, frame generator on seperate branch, needs non-naive algorithm](https://github.com/mrniceguy127/mandelbrot-gen))
-- Possible Future Side Projects
-  - AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
+#### In Progress
+- [NES Emulator](https://github.com/mrniceguy127/nes-emu)
+- [mandelbrot-gen](https://github.com/mrniceguy127/mandelbrot-gen)
+  - Tinkering...
+  - Minimum Functionality
+  - Possible future additions
+  - Frame generator on seperate branch
+  - Needs non-naive algorithm
+
+#### On hold
+- [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
+  - TDD Practice. Less-familiar language is intentional.
+
+#### Future Projects
+- \*\* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
+
+*\* Feasiblility already researched. Is feasible.*
+*\*\* Feasible, but possibly not challenging enough*
 
 ### Books I'm Reading / Will Read
 - [Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
