@@ -3,7 +3,7 @@
 ### Project Status
 - NES Emulator ([In Progress](https://github.com/mrniceguy127/nes-emu))
 - Castlevania III Save Password generator ([In Progress](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp))
-- mandelbrot-gen: Tinkering... Zooms work. ([Minimum Functionality, possible future additions](https://github.com/mrniceguy127/mandelbrot-gen))
+- mandelbrot-gen: Tinkering... Zooms work. ([Minimum Functionality, possible future additions, frame generator on seperate branch](https://github.com/mrniceguy127/mandelbrot-gen))
 - Possible Future Side Projects
   - AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
