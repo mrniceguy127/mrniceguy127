@@ -4,9 +4,6 @@
 #### In Progress
 - [NES Emulator](https://github.com/mrniceguy127/nes-emu)
 - [mandelbrot-gen](https://github.com/mrniceguy127/mandelbrot-gen)
-  - Tinkering...
-  - Minimum Functionality
-  - Possible future additions
   - Frame generator on seperate branch
   - Needs non-naive algorithm
 
