@@ -6,7 +6,6 @@
 - [mandelbrot-gen](https://github.com/mrniceguy127/mandelbrot-gen)
   - Frame generator on seperate branch
   - Needs non-naive algorithm
-  - Needs GPU acceleration. Pthreading is too slow
 
 ### On Hold
 - [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
