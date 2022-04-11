@@ -28,5 +28,4 @@
 
 ## How I pick licenses
 - GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
-- MIT/others/multi-license: When things aren't black or white. Especially when working with other people where goals, motivation, and opinions may differ.
-- Strongly reconsidering my opinions at the moment to always require attribution. Using a license without that clause made it easy for people to plagiarize my work. Fun.
+- Others/multi-license: When things aren't black or white. Especially when working with other people where goals, motivation, and opinions may differ. However, I always require an attribution clause.
