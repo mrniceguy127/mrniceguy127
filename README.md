@@ -3,10 +3,9 @@
 ## Project Status
 ### In Progress
 - [NES Emulator](https://github.com/mrniceguy127/nes-emu)
-- [mandelbrot-gen](https://github.com/mrniceguy127/mandelbrot-gen)
+- [GPU Accelerated Mandelbrot Generator](https://github.com/mrniceguy127/mandelbrot-gen)
   - Frame generator on seperate branch
-  - Needs non-naive algorithm
-  - GPU acceleration added.
+  - For especially deep zooms, I'm going to need an algorithm that doesn't rely on the precision of floating point types.
 
 ### On Hold
 - [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
