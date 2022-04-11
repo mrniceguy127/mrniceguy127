@@ -19,7 +19,7 @@
 - \*\* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
 ## Books I'm Reading / Will Read
-- [Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
+- [Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9) (On hold, too busy)
 - [The Ruby Programming Language: Everything You Need to Know 1st Edition](https://www.amazon.com/Ruby-Programming-Language-Everything-Need-ebook/dp/B0026OR3JO/ref=sr_1_4?crid=237J648G56NIM&dchild=1&keywords=ruby+programming&qid=1635881146&s=digital-text&sprefix=ruby+pro%2Cdigital-text%2C146&sr=1-4) (This will come after Go)
 
 ## Motivation
