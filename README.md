@@ -7,7 +7,7 @@
 
 ### On Hold
 - [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
-  - TDD Practice. Less-familiar language is intentional.
+  - TDD Practice. Also C# practice.
   - Might be able to test on my NES emulator, who knows!
 
 ### Future Projects
