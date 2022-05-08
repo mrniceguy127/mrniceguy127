@@ -11,8 +11,6 @@
   - Might be able to test on my NES emulator, who knows!
 
 ### Future Projects
-*\* Feasiblility already researched. Is feasible.*
-
 *\*\* Feasible, but possibly not challenging enough without extension*
 - \*\* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
