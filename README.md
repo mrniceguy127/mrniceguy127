@@ -10,7 +10,7 @@
   - [GPU Accelerated Mandelbrot Fractal Generator](https://github.com/mrniceguy127/mandelbrot-gen)
     - TODO: Frame generator on seperate branch. Works, but needs documentation and improvement.
     - TODO: For especially deep zooms, I'm going to need an algorithm that doesn't rely on the precision of floating point types.
-- Future Projects (*\* Feasible, but possibly not challenging enough without extension)
+- Future Projects (*\* Feasible, but possibly not challenging enough without extension*)
   - \* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
 ### Long Term Hobby Projects
