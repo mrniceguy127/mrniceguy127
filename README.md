@@ -1,19 +1,23 @@
 ## Project Status
 ### In Progress
-- [NES Emulator](https://github.com/mrniceguy127/nes-emu)
-  - Long term hobby project 
+
 
 ### On Hold
 - [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
   - TDD Practice. Also C# practice.
   - Might be able to test on my NES emulator, who knows!
 - [GPU Accelerated Mandelbrot Fractal Generator](https://github.com/mrniceguy127/mandelbrot-gen)
-  - Frame generator on seperate branch
-  - For especially deep zooms, I'm going to need an algorithm that doesn't rely on the precision of floating point types.
+  - TODO: Frame generator on seperate branch. Works, but needs documentation and improvement.
+  - TODO: For especially deep zooms, I'm going to need an algorithm that doesn't rely on the precision of floating point types.
 
 ### Future Projects
 *\*\* Feasible, but possibly not challenging enough without extension*
 - \*\* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
+
+### Long Term Hobby Projects
+- [NES Emulator](https://github.com/mrniceguy127/nes-emu)
+  - TODO: Finish resets, load program to 6502, and finish testing it.
+  - TODO: All other components.
 
 ## Books I'm Reading / Will Read
 - [Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9) (On hold, too busy)
