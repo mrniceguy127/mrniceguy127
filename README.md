@@ -2,7 +2,7 @@
 ## Projects Status
 ### Intermediary Hobby Projects Status
 - In Progress
-  - To busy with Comcast Co-op and life priorities
+  - To busy with life priorities
 - On Hold
   - [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
     - TDD Practice. Also C# practice.
