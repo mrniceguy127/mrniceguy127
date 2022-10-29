@@ -25,6 +25,7 @@
 ## Motivation
 - Programming is fun ¯\\\_(ツ)\_/¯
 - Career path
+- Autistic and easily fixated lol
 
 ## How I pick licenses
 - GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
