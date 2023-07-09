@@ -1,4 +1,6 @@
 
+Status 7/9/2023: Finally graduated, time to un-burnout
+
 ## Projects Status
 ### Intermediary Hobby Projects Status
 - In Progress
