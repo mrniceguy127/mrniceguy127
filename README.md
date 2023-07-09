@@ -1,5 +1,5 @@
 
-Status 7/9/2023: Finally graduated, time to un-burnout
+Status 7/9/2023: Last time I touched these projects was AT LEAST a year ago. Finally graduated, time to un-burnout. I learned a lot and might start some computer vision projects. Picked up some new hobbies as well that I may try to incorporate like arcade things.
 
 ## Projects Status
 ### Intermediary Hobby Projects Status
@@ -8,14 +8,14 @@ Status 7/9/2023: Finally graduated, time to un-burnout
 - On Hold
   - [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
     - TDD Practice. Also C# practice.
-    - Might be able to test on my NES emulator, who knows!
+    - I can test on my NES emulator, who knows!
   - [GPU Accelerated Mandelbrot Fractal Generator](https://github.com/mrniceguy127/mandelbrot-gen)
-    - TODO: Frame generator on seperate branch. Works, but needs documentation and improvement.
-    - TODO: For especially deep zooms, I'm going to need an algorithm that doesn't rely on the precision of floating point types.
+    - TODO: Frame generator on a separate branch. Works, but needs documentation and improvement.
+    - TODO: For especially deep zooms, I will need an algorithm that doesn't rely on the precision of floating point types.
 - Future Projects (*\* Feasible, but possibly not challenging enough without extension*)
   - \* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
 
-### Long Term Hobby Projects
+### Long-Term Hobby Projects
 - [NES Emulator](https://github.com/mrniceguy127/nes-emu)
   - TODO: Finish resets, load program to 6502, and finish testing it.
   - TODO: All other components.
@@ -31,5 +31,5 @@ Status 7/9/2023: Finally graduated, time to un-burnout
 - Easily fixated lol
 
 ## How I pick licenses
-- GPL v3: As many of my side projects and other open source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
+- GPL v3: As many of my side projects and other open-source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
 - Others/multi-license: When things aren't black or white. Especially when working with other people where goals, motivation, and opinions may differ. However, I always require an attribution clause. Though some projects prior to 2022 use MIT.
