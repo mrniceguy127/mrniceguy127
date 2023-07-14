@@ -1,7 +1,7 @@
-
-Status 7/9/2023: Last time I touched these projects was AT LEAST a year ago. Finally graduated, time to un-burnout. I learned a lot and might start some computer vision projects. Picked up some new hobbies as well that I may try to incorporate like arcade things.
-
 ## Projects Status
+
+Status 7/9/2023: Last time I touched these projects was AT LEAST a year ago. Finally graduated, time to un-burnout. I learned a lot and might start some computer vision projects. Picked up some new hobbies as well that I may try to incorporate.
+
 ### Intermediary Hobby Projects Status
 - In Progress
   - Way too busy with too many life priorities
@@ -33,3 +33,8 @@ Status 7/9/2023: Last time I touched these projects was AT LEAST a year ago. Fin
 ## How I pick licenses
 - GPL v3: As many of my side projects and other open-source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
 - Others/multi-license: When things aren't black or white. Especially when working with other people where goals, motivation, and opinions may differ. However, I always require an attribution clause. Though some projects prior to 2022 use MIT.
+
+
+<br>
+
+*To me programming is more than important practical art. It is also a gigantic undertaking in the foundations of knowledge - Grace Hopper*
