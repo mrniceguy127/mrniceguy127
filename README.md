@@ -11,7 +11,7 @@ Status: Doing things when I have motivation.
   - [GPU Accelerated Mandelbrot Fractal Generator](https://github.com/mrniceguy127/mandelbrot-gen)
     - TODO: Frame generator on a separate branch. Works, but needs documentation and improvement.
     - TODO: For especially deep zooms, I will need an algorithm that doesn't rely on the precision of floating point types.
-- Future Projects (*\* Feasible, but needs extension to make it more challenging)
+- Future Projects (\* Feasible, but needs extension to make it more challenging)
   - \* AES Implementation
 
 ### Long-Term Personal Projects
