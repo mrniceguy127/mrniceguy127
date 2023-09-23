@@ -1,23 +1,22 @@
 ## Projects Status
 
-Status 7/9/2023: Last time I touched these projects was AT LEAST a year ago. Finally graduated, time to un-burnout. I learned a lot and might start some computer vision projects. Picked up some new hobbies as well that I may try to incorporate.
+Status: Doing things when I have motivation.
 
-### Intermediary Hobby Projects Status
+### Intermediary Personal Projects Status
 - In Progress
-  - Way too busy with too many life priorities
+  - 6502 Emulation
 - On Hold
   - [Castlevania III Save Password Generator](https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp)
-    - TDD Practice. Also C# practice.
-    - I can test on my NES emulator, who knows!
+    - TDD Practice. Also C# learning/practice.
   - [GPU Accelerated Mandelbrot Fractal Generator](https://github.com/mrniceguy127/mandelbrot-gen)
     - TODO: Frame generator on a separate branch. Works, but needs documentation and improvement.
     - TODO: For especially deep zooms, I will need an algorithm that doesn't rely on the precision of floating point types.
-- Future Projects (*\* Feasible, but possibly not challenging enough without extension*)
-  - \* AES Implementation *(For fun. Not intended to be used in a "real world" scenario.)*
+- Future Projects (*\* Feasible, but needs extension to make it more challenging)
+  - \* AES Implementation
 
-### Long-Term Hobby Projects
-- [NES Emulator](https://github.com/mrniceguy127/nes-emu)
-  - TODO: Finish resets, load program to 6502, and finish testing it.
+### Long-Term Personal Projects
+- [Rockwell 6502 Emulation (future NES emulator hopefully)](https://github.com/mrniceguy127/nes-emu)
+  - TODO: load program to 6502, and finish testing it.
   - TODO: All other components.
 
 ## Stuff I'm Learning / Plan To Learn
@@ -28,7 +27,7 @@ Status 7/9/2023: Last time I touched these projects was AT LEAST a year ago. Fin
 ## Motivation
 - Programming is fun ¯\\\_(ツ)\_/¯
 - Career path
-- Easily fixated lol
+- Easily fixated
 
 ## How I pick licenses
 - GPL v3: As many of my side projects and other open-source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
