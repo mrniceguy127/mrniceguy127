@@ -15,7 +15,7 @@ Status: Doing things when I have motivation.
   - \* AES Implementation
 
 ### Long-Term Personal Projects
-- [Rockwell 6502 Emulation (future NES emulator hopefully)](https://github.com/mrniceguy127/nes-emu)
+- [Rockwell 6502 Emulation (future NES emulator hopefully. scope is currently 6502)](https://github.com/mrniceguy127/nes-emu)
   - TODO: load program to 6502, and finish testing it.
   - TODO: All other components.
 
