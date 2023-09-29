@@ -33,7 +33,3 @@ Status: Doing things when I have motivation.
 - GPL v3: As many of my side projects and other open-source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
 - Others/multi-license: When things aren't black or white. Especially when working with other people where goals, motivation, and opinions may differ. However, I always require an attribution clause if possible. Though some projects prior to 2022 use MIT.
 
-
-<br>
-
-*To me programming is more than important practical art. It is also a gigantic undertaking in the foundations of knowledge - Grace Hopper*
