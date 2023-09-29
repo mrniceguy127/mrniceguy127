@@ -25,7 +25,7 @@ Status: Doing things when I have motivation.
 - [Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
 
 ## Motivation
-- Programming is fun ¯\\\_(ツ)\_/¯
+- It's fun
 - Career path
 - Easily fixated
 
