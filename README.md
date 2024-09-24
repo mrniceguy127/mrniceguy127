@@ -19,15 +19,13 @@ Status: Doing things when I have motivation.
   - TODO: load program to 6502, and finish testing it.
   - TODO: Broaden project scope once done 6502.
 
-## Stuff I'm Learning / Plan To Learn
+## Reading Backlog
 - Rust
 - [The Ruby Programming Language: Everything You Need to Know 1st Edition](https://www.amazon.com/Ruby-Programming-Language-Everything-Need-ebook/dp/B0026OR3JO/ref=sr_1_4?crid=237J648G56NIM&dchild=1&keywords=ruby+programming&qid=1635881146&s=digital-text&sprefix=ruby+pro%2Cdigital-text%2C146&sr=1-4) (This will come after Rust)
 - [Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_9?dchild=1&keywords=golang&qid=1635724747&sr=8-9)
 
 ## Motivation
 - It's fun
-- Career path
-- Easily fixated
 
 ## How I pick licenses
 - GPL v3: As many of my side projects and other open-source works as possible. GPL is extremely valuable for learning and cooperation (including my own).
