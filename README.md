@@ -16,7 +16,7 @@ Status: Doing things when I have motivation.
 
 ### Long-Term Personal Projects
 - [Rockwell 6502 Emulation (future NES emulator hopefully. scope is currently 6502)](https://github.com/mrniceguy127/nes-emu)
-  - In-Progress: Finish testing 6502.
+  - In-Progress: Fix cycle accuracy. Functionally complete otherwise.
   - TODO: Broaden project scope once done 6502.
 
 ## Reading Backlog
