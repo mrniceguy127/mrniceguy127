@@ -15,9 +15,8 @@ Status: Doing things when I have motivation.
   - \* AES Implementation
 
 ### Long-Term Personal Projects
-- [Rockwell 6502 Emulation (future NES emulator hopefully. scope is currently 6502)](https://github.com/mrniceguy127/nes-emu)
-  - In-Progress: Fix cycle accuracy. Functionally complete otherwise.
-  - TODO: Broaden project scope once done 6502.
+- [NES Emulator](https://github.com/mrniceguy127/nes-emu)
+  - 6502 is done!!! Onto NTSC 2C02 :) 
 
 ## Reading Backlog
 - Rust
